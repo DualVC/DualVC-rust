@@ -1,7 +1,6 @@
 [package]
 name = "DualVC-rust"
 version = "0.1.0"
-authors = ["Liu Jing <liuijing1@shanghaitech.edu.cn>"]
 edition = "2021"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
