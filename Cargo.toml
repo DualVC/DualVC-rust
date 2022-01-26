@@ -1,0 +1,15 @@
+[package]
+name = "DualVC-rust"
+version = "0.1.0"
+authors = ["Liu Jing <liuijing1@shanghaitech.edu.cn>"]
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+pairing-plus = { git = "https://github.com/algorand/pairing-plus"}
+ff-zeroize = { version = "0.6.3", features = ["derive"]}
+sha2 = "0.8"
+bigint = { version = "4", default-features = false }
+time="0.1"
+byteorder="1.4.3"
