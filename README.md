@@ -1,2 +1,2 @@
-# DualVC-rust
-Implement DualVC in rust.
+# MC-rust
+Implement our matrix commitment scheme in rust.
