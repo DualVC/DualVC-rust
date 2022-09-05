@@ -1,2 +1,2 @@
-# MC-rust
-Implement our matrix commitment scheme in rust.
+# Matproofs-rust
+Implement Matproofs in rust.
